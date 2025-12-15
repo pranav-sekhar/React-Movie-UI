@@ -10,4 +10,4 @@ A Netflix-style user interface built using React.js to demonstrate responsive la
 - Clean UI styling
 
   ![Output Top section](op1.png)
-  ![Output bottom section](op2.png)
+  ![Output Bottom section](op2.png)
