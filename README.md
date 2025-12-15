@@ -1,4 +1,4 @@
-# NETFLIX-LIKE MOVIE WEBSITE (React.js)
+# NETFLIX - Like Movie Website (React)
 
 A Netflix-style user interface built using React.js to demonstrate responsive layout design and component-based frontend development.
 
