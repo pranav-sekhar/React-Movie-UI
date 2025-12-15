@@ -9,3 +9,5 @@ A Netflix-style user interface built using React.js to demonstrate responsive la
 - Reusable React components
 - Clean UI styling
 
+  ![Output Top section](op1.png)
+  ![Output bottom section](op2.png)
